@@ -1,3 +1,3 @@
-
+Python 3.6 running on Spyder via Anaconda
 
 The "Phi..." text files are the different N-sized Phi imported and used. SL0_Tx (Node) imports MicrophoneRecord and AudioFile python files depending on input source, while SL0_Rx (Sink) reconstructs and calculated RMS error.
