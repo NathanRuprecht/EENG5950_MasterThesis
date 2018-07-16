@@ -1,6 +1,6 @@
 # Matlab R2016a
 
-BP - Basic Pursuit reconstruction algorithm
+BP - Basic Pursuit reconstruction algorithm \n
 create_Phi - create an N-sized Phi and saves to text file
 detect_Fmax - detect maximum frequency component in source to compare our system to traditional system sampling at Nyquist Rate
 detect_K - detect K-sparsity of source
