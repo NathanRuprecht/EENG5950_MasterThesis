@@ -7,7 +7,6 @@ switch T
         ourlength=length(x);
         ratio=0;
         dB=2;
-        %
         db=real(20.*log(x));
         f=length(x);
     case 'FFT'
@@ -21,11 +20,9 @@ end
 
 for i=1:ourlength
     if i > (ratio*ourlength)
-       %noisefloor = (noisefloor *(i/(0.9*ourlength)-1) +  abs(x(i,1)))/i;
        noisefloor = noisefloor + 20*log(abs(x(i,1)));
     end
 end
 noise = noisefloor / ((1-ratio)*ourlength);
 noise = noise+20*log(dB);
-%figure, plot(1:f, real(db)), figure
 end%end function
