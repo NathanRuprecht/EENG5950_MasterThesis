@@ -1,4 +1,6 @@
-# Matlab R2016a
+# Matlab Files
+
+Version R2016a  
 
 * create_Phi - create an N-sized Phi and saves to text file  
 
