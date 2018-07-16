@@ -4,7 +4,7 @@ Taken at UNT during Fall 2017 and Spring 2018.
 
 Faculty Advisor: Dr. Xinrong Li
 
-#### Python Files
+### Python Files
   
 Python 3.6 running on Spyder via Anaconda
   
@@ -16,7 +16,7 @@ Python 3.6 running on Spyder via Anaconda
   
 Audio files not provided
 
-#### Matlab Files
+### Matlab Files
 
 Version R2016a  
 
