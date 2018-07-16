@@ -1,8 +1,8 @@
-# EENG5950 - Master's Thesis
+# EENG5950 - Master Thesis
 
 Taken at UNT during Fall 2017 and Spring 2018.
 
-Faculty Advisor: Dr. Xinrong Li
+Faculty Advisor: Dr. Xinrong Li  
 
 ### Python Files
   
