@@ -14,4 +14,4 @@ Version R2016a
 * BP - Basic Pursuit reconstruction algorithm  
 * SL0 - Smoothed L0 norm reconstructions algorithm  
   
-Music files not provided
+Audio files not provided
